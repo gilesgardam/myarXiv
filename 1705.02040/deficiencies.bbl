@@ -1,0 +1,84 @@
+\begin{thebibliography}{Man99}
+
+\bibitem[Bha00]{bhargava}
+Manjul Bhargava.
+\newblock On the {C}onway-{S}chneeberger fifteen theorem.
+\newblock In {\em Quadratic forms and their applications ({D}ublin, 1999)},
+  volume 272 of {\em Contemp. Math.}, pages 27--37. Amer. Math. Soc.,
+  Providence, RI, 2000.
+
+\bibitem[BT82]{beyltappe}
+F.~Rudolf Beyl and J\"urgen Tappe.
+\newblock {\em Group extensions, representations, and the {S}chur
+  multiplicator}, volume 958 of {\em Lecture Notes in Mathematics}.
+\newblock Springer-Verlag, Berlin-New York, 1982.
+
+\bibitem[BT07]{bridsontweedale}
+Martin~R. Bridson and Michael Tweedale.
+\newblock Deficiency and abelianized deficiency of some virtually free groups.
+\newblock {\em Math. Proc. Cambridge Philos. Soc.}, 143(2):257--264, 2007.
+
+\bibitem[Joh70]{johnson}
+D.~L. Johnson.
+\newblock Minimal relations for certain wreath products of groups.
+\newblock {\em Canad. J. Math.}, 22:1005--1009, 1970.
+
+\bibitem[JR79]{johnsonrobertson}
+D.~L. Johnson and E.~F. Robertson.
+\newblock Finite groups of deficiency zero.
+\newblock In {\em Homological group theory ({P}roc. {S}ympos., {D}urham,
+  1977)}, volume~36 of {\em London Math. Soc. Lecture Note Ser.}, pages
+  275--289. Cambridge Univ. Press, Cambridge-New York, 1979.
+
+\bibitem[Kar87]{karpilovsky}
+Gregory Karpilovsky.
+\newblock {\em The {S}chur multiplier}, volume~2 of {\em London Mathematical
+  Society Monographs. New Series}.
+\newblock The Clarendon Press, Oxford University Press, New York, 1987.
+
+\bibitem[Kot12]{kotschick}
+D.~Kotschick.
+\newblock The deficiencies of {K}\"ahler groups.
+\newblock {\em J. Topol.}, 5(3):639--650, 2012.
+
+\bibitem[Lus95]{lustig}
+Martin Lustig.
+\newblock Non-efficient torsion-free groups exist.
+\newblock {\em Comm. Algebra}, 23(1):215--218, 1995.
+
+\bibitem[Man99]{mann:questions}
+Avinoam Mann.
+\newblock Some questions about {$p$}-groups.
+\newblock {\em J. Austral. Math. Soc. Ser. A}, 67(3):356--379, 1999.
+
+\bibitem[MK14]{kourovka}
+V.~D. Mazurov and E.~I. Khukhro, editors.
+\newblock {\em The {K}ourovka notebook}.
+\newblock Russian Academy of Sciences Siberian Division, Institute of
+  Mathematics, Novosibirsk, eighteenth edition, 2014.
+\newblock Unsolved problems in group theory.
+
+\bibitem[Rap73]{rapaport}
+Elvira~Strasser Rapaport.
+\newblock Finitely presented groups: {T}he deficiency.
+\newblock {\em J. Algebra}, 24:531--543, 1973.
+
+\bibitem[Ser58]{serre}
+Jean-Pierre Serre.
+\newblock Sur la topologie des vari\'et\'es alg\'ebriques en caract\'eristique
+  {$p$}.
+\newblock In {\em Symposium internacional de topolog\'\i a algebraica
+  {I}nternational symposium on algebraic topology}, pages 24--53. Universidad
+  Nacional Aut\'onoma de M\'exico and UNESCO, Mexico City, 1958.
+
+\bibitem[SW73]{sagwamsley}
+T.~W. Sag and J.~W. Wamsley.
+\newblock Minimal presentations for groups of order {$2\sp{n}$}, {$n\leq 6$}.
+\newblock {\em J. Austral. Math. Soc.}, 15:461--469, 1973.
+
+\bibitem[Tah72]{tahara}
+Ken~Ichi Tahara.
+\newblock On the second cohomology groups of semidirect products.
+\newblock {\em Math. Z.}, 129:365--379, 1972.
+
+\end{thebibliography}
