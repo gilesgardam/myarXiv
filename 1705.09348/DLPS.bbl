@@ -1,0 +1,89 @@
+\begin{thebibliography}{NNN62}
+
+\bibitem[BO15]{boatman_olshanskii}
+Nicholas~S. Boatman and Alexander~Yu Olshanskii.
+\newblock On identities in the products of group varieties.
+\newblock {\em Internat. J. Algebra Comput.}, 25(3):531--540, 2015.
+
+\bibitem[GAP]{GAP4}
+The GAP~Group.
+\newblock {\em {GAP -- Groups, Algorithms, and Programming, Version 4.8.3}},
+  2016.
+
+\bibitem[Gru53]{gruenberg}
+K.~W. Gruenberg.
+\newblock Two theorems on {E}ngel groups.
+\newblock {\em Proc. Cambridge Philos. Soc.}, 49:377--380, 1953.
+
+\bibitem[kbmag]{kbmag1.5}
+D.~Holt.
+\newblock \texttt{kbmag}, {K}nuth-{B}endix on {M}onoids and {A}utomatic
+  {G}roups, {V}ersion 1.5.
+\newblock \href {http://www.warwick.ac.uk/~mareg/kbmag}
+  {\texttt{http://www.warwick.ac.uk/}\discretionary
+  {}{}{}\texttt{\texttt{\symbol{126}}mareg/}\discretionary
+  {}{}{}\texttt{kbmag}}, Jan 2009.
+\newblock Refereed GAP package.
+
+\bibitem[HVL05]{havasvaughanlee}
+George Havas and M.~R. Vaughan-Lee.
+\newblock 4-{E}ngel groups are locally nilpotent.
+\newblock {\em Internat. J. Algebra Comput.}, 15(4):649--682, 2005.
+
+\bibitem[Magma]{magma}
+Wieb Bosma, John Cannon, and Catherine Playoust.
+\newblock The {M}agma algebra system. {I}. {T}he user language.
+\newblock {\em J. Symbolic Comput.}, 24(3-4):235--265, 1997.
+\newblock Computational algebra and number theory (London, 1993).
+
+\bibitem[Mil13]{milne}
+J.S. Milne.
+\newblock {\em Group Theory}.
+\newblock Available at \url{http://www.jmilne.org/math/CourseNotes/gt.html},
+  version 3.13 edition, 2013.
+
+\bibitem[MSE]{stackexchange}
+User \texttt{prover}~on Mathematics Stack~Exchange.
+\newblock A criterion for a group to be abelian, 3 October 2012.
+\newblock \url{http://math.stackexchange.com/q/206717}
+
+\bibitem[Neu67]{h_neumann_book}
+Hanna Neumann.
+\newblock {\em Varieties of groups}.
+\newblock Springer-Verlag New York, Inc., New York, 1967.
+
+\bibitem[Nic99]{nickel}
+Werner Nickel.
+\newblock Computation of nilpotent {E}ngel groups.
+\newblock {\em J. Austral. Math. Soc. Ser. A}, 67(2):214--222, 1999.
+\newblock Group theory.
+
+\bibitem[NNN62]{neumann_cubed}
+B.~H. Neumann, Hanna Neumann, and Peter~M. Neumann.
+\newblock Wreath products and varieties of groups.
+\newblock {\em Math. Z.}, 80:44--62, 1962.
+
+\bibitem[Rob72]{robinson_soluble_2}
+Derek J.~S. Robinson.
+\newblock {\em Finiteness conditions and generalized soluble groups. {P}art 2}.
+\newblock Springer-Verlag, New York-Berlin, 1972.
+\newblock Ergebnisse der Mathematik und ihrer Grenzgebiete, Band 63.
+
+\bibitem[Rob96]{robinson}
+Derek J.~S. Robinson.
+\newblock {\em A course in the theory of groups}, volume~80 of {\em Graduate
+  Texts in Mathematics}.
+\newblock Springer-Verlag, New York, second edition, 1996.
+
+\bibitem[Tra11]{traustason}
+Gunnar Traustason.
+\newblock Engel groups.
+\newblock In {\em Groups {S}t {A}ndrews 2009 in {B}ath. {V}olume 2}, volume 388
+  of {\em London Math. Soc. Lecture Note Ser.}, pages 520--550. Cambridge Univ.
+  Press, Cambridge, 2011.
+
+\bibitem[Ven16]{gv}
+Geetha Venkataraman.
+\newblock Groups in which squares and cubes commute, 2016, arXiv:1605.05463.
+
+\end{thebibliography}

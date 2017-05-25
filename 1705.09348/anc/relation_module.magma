@@ -1,0 +1,29 @@
+// Running this up to m = 80 took about 1 month.
+// Going up to m = 20 takes a minute or two.
+
+R<w,x,y,z> := PolynomialRing(Integers(), 4);
+
+geom_ser := function(p, r)
+    ret := 0;
+    for n in [0..r-1] do
+        ret := ret + p^n;
+    end for;
+    return ret;
+end function;
+
+rel_mod := function(m, n)
+    S := [
+        1 - w * x,
+        1 - y * z,
+        geom_ser(x, m) * geom_ser(y, m),
+        geom_ser(x, n) * geom_ser(y, n),
+        geom_ser(x*y, m) * (1-(x*y)^m),
+        geom_ser(x*y, n) * (1-(x*y)^n)
+    ];
+    return Ideal(S);
+end function;
+
+for m in [1..20] do
+    n := m + 1;
+    print m, n, 1 in rel_mod(m, n);
+end for;
